@@ -1,0 +1,50 @@
+body
+{
+background-size: cover;
+}
+
+.heading
+{
+    font-size: 290%;
+    font-family: fantasy;
+    font-style: italic;
+    color:darkgoldenrod;
+}
+
+#start
+{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: 200%;
+    font-style: oblique;
+    color:rgb(255, 241, 172);
+}
+
+#status
+{
+    font-family:sans-serif;
+    font-weight: bold;
+    font-size: 200%;
+    color:rgb(39, 90, 185);
+    font-style: oblique;  
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(185, 0, 185);
+    color: rgb(255, 145, 255);
+    font-size: 150%;
+    font-family: cursive;
+    text-align: center;
+}
+
+canvas
+{
+border-color: rgb(147, 255, 255);
+border-style: double;
+border-radius: 16px;
+box-shadow: 8px rgb(0, 35, 87);
+}
