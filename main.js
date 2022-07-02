@@ -1,6 +1,5 @@
 video="";
 status="";
-objects = [];
 
 function perload()
 {
